@@ -1,0 +1,4 @@
+product_id,product_name,category,_etl_loaded_at
+101,Widget A,Electronics,2025-06-07 20:00:00
+102,Widget B,Clothing,2025-06-07 20:00:00
+103,Widget C,Electronics,2025-06-07 20:00:00
